@@ -1,0 +1,6 @@
+{
+    "mixer.master.volume": "Master Volume",
+    "mixer.music.volume": "Music Volume",
+    "mixer.game.volume": "Game Volume",
+    "mixer.ui.volume": "UI Volume"
+}

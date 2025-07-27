@@ -1,0 +1,14 @@
+{
+    "pack.obtained": "Card Pack Obtained",
+    "pack.obtained.plural": "Card Packs Obtained",
+    "pack.rarity.common": "Common Card Pack",
+    "pack.rarity.uncommon": "Uncommon Card Pack",
+    "pack.rarity.rare": "Rare Card Pack",
+    "pack.rarity.epic": "Epic Card Pack",
+    "pack.simple.name": "Simple Pack",
+    "pack.simpler.name": "Simpler Pack",
+    "pack.item.name": "Item Pack",
+    "pack.discard.name": "Discard Pack",
+    "pack.spell.name": "Spell Pack",
+    "pack.enchanted.name": "Enchanted Pack"
+}

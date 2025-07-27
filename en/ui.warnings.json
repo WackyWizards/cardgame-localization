@@ -1,0 +1,8 @@
+{
+    "ui.warning.cleardata.title": "Clear Data",
+    "ui.warning.cleardata.text": "This action will clear all of your collection, player and run data. It will not clear your achievements, stats or leaderboard placements.<br>This action is irreversible. Are you sure?",
+    "ui.warning.tutorial.title": "Tutorial",
+    "ui.warning.tutorial.text": "This action will load the battle tutorial.<br>Do you wish to continue?",
+    "ui.warning.tutorial.firsttime.title": "Tutorial",
+    "ui.warning.tutorial.firsttime.text": "It appears it is your first time playing the game!<br>Would you like to play the tutorial?"
+}

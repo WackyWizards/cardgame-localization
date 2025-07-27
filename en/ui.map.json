@@ -1,0 +1,9 @@
+{
+    "ui.map.keybutton": "Toggle Map Key",
+    "ui.map.key.start": "- Start",
+    "ui.map.key.shop": "- Shop",
+    "ui.map.key.event": "- Event",
+    "ui.map.key.battle": "- Battle",
+    "ui.map.key.elite": "- Elite",
+    "ui.map.key.boss": "- Boss"
+}

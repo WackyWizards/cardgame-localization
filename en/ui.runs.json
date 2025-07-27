@@ -1,0 +1,11 @@
+{
+    "ui.run": "Run",
+    "ui.run.plural": "Runs",
+    "ui.runs.savedruns": "Saved Runs",
+    "ui.runs.newrun": "New Run",
+    "ui.runs.startrun": "Start Run",
+    "ui.runs.loadrun": "Load Run",
+    "ui.runs.deleterun": "Delete Run",
+    "ui.runs.lost": "Runs Lost",
+    "ui.runs.won": "Runs Won"
+}

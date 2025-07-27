@@ -1,0 +1,14 @@
+{
+    "passive.player.name": "???",
+    "passive.player.description": "If this unit perishes the run is lost.",
+    "passive.bloodfeeding.name": "Bloodfeeding",
+    "passive.bloodfeeding.description": "If this unit damages a target with Bleed, heal damage dealt. (Max. 2)<br>This effect can trigger once per turn.",
+    "passive.bloodstarved.name": "Starving For Blood",
+    "passive.bloodstarved.description": "At the start of the turn, if this unit failed to heal from Bloodfeeding last turn, gain 1 Attack Power Down.",
+    "passive.preparation.name": "Preparation",
+    "passive.preparation.description": "At the start of the first turn, draw 2 cards.",
+    "passive.bulkyarmor.name": "Bulky Armor",
+    "passive.bulkyarmor.description": "At the start of the turn, gain 2 Protection.",
+    "passive.boss.name": "Boss Enemy",
+    "passive.boss.description": "At the start of the turn, draw the deck and recover up to maximum mana."
+}

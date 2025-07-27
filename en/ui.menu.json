@@ -1,0 +1,13 @@
+{
+    "ui.menu.loadrun": "Load Run",
+    "ui.menu.newrun": "New Run",
+    "ui.menu.tutorial": "Tutorial",
+    "ui.menu.statistics": "Statistics",
+    "ui.menu.credits": "Credits",
+    "ui.menu.settings": "Settings",
+    "ui.menu.quit": "Quit Game",
+    "ui.menu.saveandquit": "Save And Quit",
+    "ui.menu.tooltip.discord": "Discord",
+    "ui.menu.tooltip.news": "News",
+    "ui.menu.tooltip.cleardata": "Clear Data"
+}

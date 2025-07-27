@@ -1,0 +1,18 @@
+{
+    "ui.statistics.tab.collection": "Collection",
+    "ui.statistics.tab.leaderboards": "Leaderboards",
+    "ui.statistics.tab.achievements": "Achievements",
+    "ui.statistics.tab.statistics": "Statistics",
+    "ui.statistics.collection.title": "Collection",
+    "ui.statistics.collection.cardpacks.plural": "Card Packs",
+    "ui.statistics.collection.cards.plural": "Cards",
+    "ui.statistics.collection.relics.plural": "Relics",
+    "ui.statistics.collection.found.shop": "Found In Shops",
+    "ui.statistics.collection.found.event": "Found In Events",
+    "ui.statistics.collection.found.trade": "Traded For",
+    "ui.statistics.leaderboards.subtab.runswon": "Runs Won",
+    "ui.statistics.leaderboards.subtab.runs": "Most Runs",
+    "ui.statistics.leaderboards.noentries": "No Entries Found!",
+    "ui.statistics.statistics.globalstats.title": "Global Stats",
+    "ui.statistics.statistics.localstats.title": "Local Stats"
+}

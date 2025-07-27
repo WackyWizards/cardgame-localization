@@ -1,0 +1,14 @@
+{
+    "event.rest.text": "You set up camp inside a narrow cavern, the chill of the stone walls offering little comfort. Fatigue wraps around you like a heavy cloak, and before long, sleep takes hold.",
+    "event.rest.choice.1.text": "Rest up",
+    "event.shop.text": "An older man shuffles toward you, his cart groaning with age and rust. 'Take a look at my wares... will you?' he rasps, eyes glinting beneath his hood.",
+    "event.shop.choice.1.text": "Browse his wares",
+    "event.shop.choice.2.text": "Continue on your way",
+    "event.weepingstatue.text": "A solemn statue looms atop a crumbling pedestal, silent tears of blood streaking its stone face. It compels you to take it... Will you?",
+    "event.weepingstatue.choice.1.text": "Take the statue",
+    "event.weepingstatue.choice.2.text": "Walk away",
+    "event.masks.text": "Two ornate masks rest atop a stone slab—one carved in joy, the other twisted in sorrow. A whisper slithers into your thoughts: 'Choose a face to wear... but know the mask may wear you.'",
+    "event.masks.choice.1.text": "Choose the joyful mask",
+    "event.masks.choice.2.text": "Choose the sorrowful mask",
+    "event.masks.choice.3.text": "Ignore it and walk away"
+}
