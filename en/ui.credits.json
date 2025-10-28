@@ -1,6 +1,6 @@
 {
     "ui.credits.title": "Credits",
-    "ui.credits.org": "Game By KUO",
+    "ui.credits.org": "Game By <a href=\"https://www.wackywizards.org\">Wacky Wizards</a>",
     "ui.credits.kellie.credit": "Game Design, Programming, Art",
-    "ui.credits.section.playtesters.title": "Playtesters"
+    "ui.credits.section.playtesters.title": "Pre-Alpha Playtesters"
 }

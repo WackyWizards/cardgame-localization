@@ -4,5 +4,15 @@
     "ui.warning.tutorial.title": "Tutorial",
     "ui.warning.tutorial.text": "This action will load the battle tutorial.<br>Do you wish to continue?",
     "ui.warning.tutorial.firsttime.title": "Tutorial",
-    "ui.warning.tutorial.firsttime.text": "It appears it is your first time playing the game!<br>Would you like to play the tutorial?"
+    "ui.warning.tutorial.firsttime.text": "It appears it is your first time playing the game!<br>Would you like to play the tutorial first?",
+    "ui.warning.emptydeck.title": "Empty Deck",
+    "ui.warning.emptydeck.text": "Your deck is empty! You will have no cards to draw from.<br>Are you sure you wish to continue?",
+    "ui.warning.alpha.title": "Alpha Build",
+    "ui.warning.alpha.text": "You are playing an alpha build of the game.<br>The game is still in active development and contains bugs, incomplete features and placeholder assets.<br>Click <a href='https://www.wackywizards.org/discord'>here</a> to join our discord server to report bugs and get updates on development!",
+    "ui.warning.version.title": "Version Mismatch",
+    "ui.warning.version.text": "This run was saved on a separate game version. It might be corrupted.<br>Are you sure you wish to load it?",
+    "ui.warning.deleterun.title": "Delete Run Data",
+    "ui.warning.deleterun.text": "This action will delete the provided run data.<br>Are you sure?",
+    "ui.warning.rewardsunclaimed.title": "Unclaimed Rewards",
+    "ui.warning.rewardsunclaimed.text": "You have unclaimed rewards!<br>Are you sure you wish to continue without claiming them?"
 }

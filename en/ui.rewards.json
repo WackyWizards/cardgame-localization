@@ -1,0 +1,8 @@
+{
+    "ui.rewards.selectcard": "Select A Card",
+    "ui.rewards.selectcard.plural": "Select {0} Cards",
+    "ui.rewards.selectpack": "Select A Card Pack",
+    "ui.rewards.selectpack.plural": "Select {0} Card Packs",
+    "ui.rewards.selectrelic": "Select A Relic",
+    "ui.rewards.selectrelic.plural": "Select {0} Relics"
+}

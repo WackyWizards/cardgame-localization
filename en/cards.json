@@ -35,7 +35,6 @@
     "card.healingspell.name": "Healing Spell",
     "card.amplify.name": "Amplify",
     "card.fortify.name": "Fortify",
-    "card.incantation.name": "Incantation",
     "card.manaessence.name": "Mana Essence",
     "card.sleightofhand.name": "Sleight-Of-Hand",
     "card.clone.name": "Clone",
@@ -46,7 +45,7 @@
     "card.enchant.name": "Enchant",
     "card.enchantedstrike.name": "Enchanted Strike",
     "card.enchantedblast.name": "Enchanted Blast",
-    "card.hastenup.name": "Hasten Up",
+    "card.haste.name": "Haste",
     "card.freezespell.name": "Freeze Spell",
     "card.adrenalinerush.name": "Adrenaline Rush"
 }

@@ -1,0 +1,12 @@
+{
+    "keyword.discard.name": "Discard",
+    "keyword.discard.description": "Return a card from the hand to the deck.",
+    "keyword.exhaust.name": "Exhaust",
+    "keyword.exhaust.description": "Remove a card from the hand for the rest of the battle.",
+    "keyword.item.name": "Item",
+    "keyword.item.description": "Card is removed from the deck when played.",
+    "keyword.instant.name": "Instant",
+    "keyword.instant.description": "Card is played immediately upon being assigned to a card slot.",
+    "keyword.shield.name": "Shield",
+    "keyword.shield.description": "Absorbs incoming damage."
+}

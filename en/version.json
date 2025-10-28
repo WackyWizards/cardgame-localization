@@ -1,3 +1,5 @@
 {
-    "build.development": "Development Build"
+    "build.development": "Development Build",
+    "build.alpha": "Alpha Build",
+    "build.beta": "Beta Build"
 }

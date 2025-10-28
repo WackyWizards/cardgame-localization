@@ -1,0 +1,13 @@
+{
+    "ui.shop.cardpacks": "Card Packs",
+    "ui.shop.relics": "Relics",
+    "ui.shop.reroll": "Reroll ({0}g)",
+    "ui.shop.heal": "Heal ({0}g)",
+    "ui.shop.confirm.title": "Confirm Purchase",
+    "ui.shop.confirm.pack": "Are you sure you want to purchase {0} for {1}g?",
+    "ui.shop.confirm.relic": "Are you sure you want to purchase {0} for {1}g?",
+    "ui.shop.trade.title": "Trade",
+    "ui.shop.trade.confirm": "Trade",
+    "ui.shop.trade.info": "Select 2 relics of the same rarity to receive 1 random relic of the next higher rarity.<br><br>Some specific relic combinations may yield a unique relic instead of a random one.<br><br>If no eligible combination is found, you'll receive a random relic as usual.",
+    "ui.shop.soldout": "SOLD OUT - Check back soon!"
+}

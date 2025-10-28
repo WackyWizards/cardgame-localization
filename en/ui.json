@@ -1,6 +1,9 @@
 {
     "ui.game.title": "Untitled Card Game",
+    "ui.pause.title": "Paused",
+    "ui.keybind.input": "Press Any Key",
     "ui.button.close": "Close",
     "ui.button.continue": "Continue",
-    "ui.keybind.input": "Press Any Key"
+    "ui.button.yes": "Yes",
+    "ui.button.no": "No"
 }

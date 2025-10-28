@@ -1,5 +1,14 @@
 {
     "ui.battles.enemies": "Enemies",
     "ui.battles.editdeck": "Edit Deck",
-    "ui.battles.startbattle": "Start Battle"
+    "ui.battles.startbattle": "Start Battle",
+    "ui.battles.start": "Battle Start",
+    "ui.battles.turn": "Turn",
+    "ui.battles.turncount": "Turn {0}",
+    "ui.battles.endturn": "End Turn",
+    "ui.battles.results.victory": "Victory",
+    "ui.battles.results.defeat": "Defeat",
+    "ui.battles.results.selectcards": "Select Cards",
+    "ui.battles.results.selectcardpacks": "Select Card Packs",
+    "ui.battles.results.selectrelics": "Select Relics"
 }

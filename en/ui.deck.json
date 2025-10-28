@@ -1,0 +1,10 @@
+{
+    "ui.deck.title": "Deck ({0}/{1})",
+    "ui.deck.random": "Random Deck",
+    "ui.deck.clear": "Clear Deck",
+    "ui.storage.title": "Owned Cards",
+    "ui.storage.order": "Order",
+    "ui.storage.order.rarity": "Rarity",
+    "ui.storage.order.cost": "Cost",
+    "ui.storage.order.cardtype": "Card Type"
+}
