@@ -1,12 +1,8 @@
 {
     "unit.unknown.name": "???",
-    "unit.unknown.description": "???",
     "unit.zombie.name": "Zombie",
-    "unit.zombie.description": "Undead husk of an adventurer, reanimated through unknown means.",
     "unit.elitezombie.name": "Elite Zombie",
-    "unit.elitezombie.description": "Stronger version of a zombie.",
     "unit.knight.name": "Knight",
-    "unit.knight.description": "Member of the expedition force.",
     "unit.eliteknight.name": "Elite Knight",
-    "unit.eliteknight.description": "Armorclad knight of the expedition force. Better trained and equipped than a regular knight."
+    "unit.copycat.name": "Copycat"
 }

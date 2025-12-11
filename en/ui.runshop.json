@@ -1,0 +1,16 @@
+{
+    "ui.runshop.title": "Run Shop",
+    "ui.runshop.respec": "Respec",
+    "ui.runshop.modifiers.maxhp.title": "Max HP",
+    "ui.runshop.modifiers.maxhp.description": "Increase your maximum HP by 10",
+    "ui.runshop.modifiers.goldgain.title": "Gold Gain",
+    "ui.runshop.modifiers.goldgain.description": "Increase the amount of gold gained",
+    "ui.runshop.modifiers.startinggold.title": "Starting Gold",
+    "ui.runshop.modifiers.startinggold.description": "Start each run with +10g additional gold",
+    "ui.runshop.modifiers.startinggoldbonus.title": "Starting Gold Bonus",
+    "ui.runshop.modifiers.startinggoldbonus.description": "Increase the amount of the starting gold bonus by 10g",
+    "ui.runshop.modifiers.startingreliccount.title": "Starting Relic Count",
+    "ui.runshop.modifiers.startingreliccount.description": "Increase the amount of selectable relics from the start with a relic bonus by 1",
+    "ui.runshop.modifiers.hireally.title": "Hire Ally",
+    "ui.runshop.modifiers.hireally.description": "Start the run with an ally that will fight alongside you"
+}

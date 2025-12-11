@@ -4,13 +4,15 @@
     "passive.bloodfeeding.name": "Bloodfeeding",
     "passive.bloodfeeding.description": "If this unit damages a target with Bleed, heal half of damage dealt.<br>This effect can trigger once per turn.",
     "passive.bloodstarved.name": "Starving For Blood",
-    "passive.bloodstarved.description": "At the start of the turn, if this unit failed to heal from Bloodfeeding last turn, take 2 fixed damage.",
+    "passive.bloodstarved.description": "If this unit is an <b>Undead</b>, targets the enemy with the most stacks of <b>Bleed</b>. If no such enemy exists, targets randomly.<br>If this unit has the passive ability \"Bloodfeeding\", at the start of the second turn onwards, if this unit failed to heal from its effect last turn, gains 1 Fragile.",
     "passive.preparation.name": "Preparation",
-    "passive.preparation.description": "At the start of the first turn, draw 2 cards.",
+    "passive.preparation.description": "At the start of the first turn, draws 2 cards.",
     "passive.bulkyarmor.name": "Bulky Armor",
-    "passive.bulkyarmor.description": "At the start of the turn, gain 2 Protection.",
+    "passive.bulkyarmor.description": "At the start of the turn, gains 2 Protection.",
     "passive.boss.name": "Boss Enemy",
-    "passive.boss.description": "At the start of the turn, draw the deck and recover up to maximum mana.",
+    "passive.boss.description": "At the start of the turn, draws the deck and recovers up to maximum mana.",
     "passive.copycat.name": "Copycat",
-    "passive.copycat.description": "At the start of the battle, remove all cards from hand and deck. Copies the player unit's deck and stats."
+    "passive.copycat.description": "At the start of the battle, removes all cards from hand and deck. Copies the player unit's deck and stats.",
+    "passive.prepared.name": "Prepared",
+    "passive.prepared.description": "At the start of the turn, draws 2 cards."
 }

@@ -1,4 +1,6 @@
 {
+    "ui.shop.buy": "Buy",
+    "ui.shop.sell": "Sell",
     "ui.shop.cardpacks": "Card Packs",
     "ui.shop.relics": "Relics",
     "ui.shop.reroll": "Reroll ({0}g)",

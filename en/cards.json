@@ -9,6 +9,12 @@
     "card.type.defense": "- Defense Card -",
     "card.type.spell": "- Spell Card -",
     "card.type.item": "- Item Card -",
+    "card.instant": "[Instant]",
+    "card.target": "[Target {0}]",
+    "card.targets.enemy": "Enemy",
+    "card.targets.ally": "Ally",
+    "card.targets.self": "Self",
+    "card.aoe": "[AOE - Targets {0} Slots]",
     "card.strike.name": "Strike",
     "card.strongstrike.name": "Strong Strike",
     "card.guard.name": "Guard",
@@ -47,5 +53,10 @@
     "card.enchantedblast.name": "Enchanted Blast",
     "card.haste.name": "Haste",
     "card.freezespell.name": "Freeze Spell",
-    "card.adrenalinerush.name": "Adrenaline Rush"
+    "card.adrenalinerush.name": "Adrenaline Rush",
+    "card.speedpotion.name": "Speed Potion",
+    "card.materialize.name": "Materialize",
+    "card.glasscannon.name": "Glass Cannon",
+    "card.spellweaving.name": "Spellweaving",
+    "card.trick.name": "Trick"
 }

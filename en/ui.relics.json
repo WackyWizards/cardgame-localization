@@ -1,4 +1,11 @@
 {
     "ui.relics.select": "Select A Starting Relic",
-    "ui.relics.select.plural": "Select Starting Relics"
+    "ui.relics.select.plural": "Select Starting Relics",
+    "ui.relics.none": "No Relics Available",
+    "ui.relics.description": "Relics provide powerful passive effects that can turn the tide of battle. Choose wisely!",
+    "ui.relics.selected": "Selected Relic",
+    "ui.relics.selected.plural": "Selected Relics",
+    "ui.relics.unequipped": "Unequipped Relics",
+    "ui.relics.equipped": "Equipped Relics",
+    "ui.relics.equip": "Equip Relic"
 }

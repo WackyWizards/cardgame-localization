@@ -8,11 +8,13 @@
     "ui.warning.emptydeck.title": "Empty Deck",
     "ui.warning.emptydeck.text": "Your deck is empty! You will have no cards to draw from.<br>Are you sure you wish to continue?",
     "ui.warning.alpha.title": "Alpha Build",
-    "ui.warning.alpha.text": "You are playing an alpha build of the game.<br>The game is still in active development and contains bugs, incomplete features and placeholder assets.<br>Click <a href='https://www.wackywizards.org/discord'>here</a> to join our discord server to report bugs and get updates on development!",
+    "ui.warning.alpha.text": "You are playing an alpha build of the game.<br>The game is still in active development and contains bugs, incomplete features and placeholder assets.<br>Run data may be reset at any point without prior notice.<br>Click <a href='https://www.wackywizards.org/discord'>here</a> to join our discord server to report bugs and get updates on development!",
     "ui.warning.version.title": "Version Mismatch",
-    "ui.warning.version.text": "This run was saved on a separate game version. It might be corrupted.<br>Are you sure you wish to load it?",
+    "ui.warning.version.text": "This run was saved on a separate game version.<br>It could be corrupted or have unexpected bugs.<br>Are you sure you wish to load it?",
     "ui.warning.deleterun.title": "Delete Run Data",
     "ui.warning.deleterun.text": "This action will delete the provided run data.<br>Are you sure?",
     "ui.warning.rewardsunclaimed.title": "Unclaimed Rewards",
-    "ui.warning.rewardsunclaimed.text": "You have unclaimed rewards!<br>Are you sure you wish to continue without claiming them?"
+    "ui.warning.rewardsunclaimed.text": "You have unclaimed rewards!<br>Are you sure you wish to continue without claiming them?",
+    "ui.warning.moddedrun_invalidmods.title": "Invalid Mods",
+    "ui.warning.moddedrun_invalidmods.text": "This run uses mods that are not currently enabled. This may cause instability or crashes.<br><br>Are you sure you wish to continue?<br><br>Expected Mods:<br>{0}"
 }

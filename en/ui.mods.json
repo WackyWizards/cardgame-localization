@@ -1,0 +1,8 @@
+{
+    "ui.mods.title": "Mods",
+    "ui.mods.enabled": "Enabled Mods",
+    "ui.mods.all": "All Mods",
+    "ui.mod.status.loaded": "Loaded",
+    "ui.mod.status.loading": "Loading...",
+    "ui.mod.load": "Load Mod"
+}

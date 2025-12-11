@@ -7,5 +7,10 @@
     "ui.runs.loadrun": "Load Run",
     "ui.runs.deleterun": "Delete Run",
     "ui.runs.lost": "Runs Lost",
-    "ui.runs.won": "Runs Won"
+    "ui.runs.won": "Runs Won",
+    "ui.runs.selectbonus": "Select Your Starting Bonus",
+    "ui.runs.openrunshop": "Open Shop",
+    "ui.runs.start.option.relic": "Choose a relic to start with",
+    "ui.runs.start.option.gold": "Start with extra gold",
+    "ui.runs.start.option.none": "No starting bonus"
 }

@@ -5,10 +5,16 @@
     "ui.battles.start": "Battle Start",
     "ui.battles.turn": "Turn",
     "ui.battles.turncount": "Turn {0}",
+    "ui.battles.startcombat": "Start Combat",
     "ui.battles.endturn": "End Turn",
     "ui.battles.results.victory": "Victory",
     "ui.battles.results.defeat": "Defeat",
     "ui.battles.results.selectcards": "Select Cards",
     "ui.battles.results.selectcardpacks": "Select Card Packs",
-    "ui.battles.results.selectrelics": "Select Relics"
+    "ui.battles.results.selectrelics": "Select Relics",
+    "ui.battles.targetingarrowvisibility": "Targeting Visibility: {0}",
+    "ui.battles.targetingarrowvisibility.all": "All",
+    "ui.battles.targetingarrowvisibility.enemy": "Enemy",
+    "ui.battles.targetingarrowvisibility.friendly": "Friendly",
+    "ui.battles.targetingarrowvisibility.hidden": "Hidden"
 }

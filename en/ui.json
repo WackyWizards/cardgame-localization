@@ -2,8 +2,19 @@
     "ui.game.title": "Untitled Card Game",
     "ui.pause.title": "Paused",
     "ui.keybind.input": "Press Any Key",
-    "ui.button.close": "Close",
-    "ui.button.continue": "Continue",
     "ui.button.yes": "Yes",
-    "ui.button.no": "No"
+    "ui.button.no": "No",
+    "ui.button.back": "Back",
+    "ui.button.refresh": "Refresh",
+    "ui.button.next": "Next",
+    "ui.button.enable": "Enable",
+    "ui.button.disable": "Disable",
+    "ui.button.close": "Close",
+    "ui.button.skip": "Skip",
+    "ui.button.hide": "Hide",
+    "ui.button.show": "Show",
+    "ui.button.confirm": "Confirm",
+    "ui.button.continue": "Continue",
+    "ui.button.return": "Return",
+    "ui.button.returntomenu": "Return to Menu"
 }

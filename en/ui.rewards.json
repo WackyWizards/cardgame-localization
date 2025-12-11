@@ -4,5 +4,12 @@
     "ui.rewards.selectpack": "Select A Card Pack",
     "ui.rewards.selectpack.plural": "Select {0} Card Packs",
     "ui.rewards.selectrelic": "Select A Relic",
-    "ui.rewards.selectrelic.plural": "Select {0} Relics"
+    "ui.rewards.selectrelic.plural": "Select {0} Relics",
+    "ui.rewards.floorsreached": "Floors Cleared:",
+    "ui.rewards.damagedealt": "Damage Dealt:",
+    "ui.rewards.kills": "Kills:",
+    "ui.rewards.floorgold": "Floors Cleared:",
+    "ui.rewards.damagegold": "Damage Dealt:",
+    "ui.rewards.killgold": "Kills:",
+    "ui.rewards.totalgold": "Total Gold Earned:"
 }
