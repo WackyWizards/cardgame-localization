@@ -17,6 +17,8 @@
     "card.aoe": "[AOE - Targets {0} Slots]",
     "card.strike.name": "Strike",
     "card.strongstrike.name": "Strong Strike",
+    "card.powerfulstrike.name": "Powerful Strike",
+    "card.heavystrike.name": "Heavy Strike",
     "card.guard.name": "Guard",
     "card.focus.name": "Focus",
     "card.insight.name": "Insight",
@@ -26,7 +28,6 @@
     "card.violentgnawing.name": "Violent Gnawing",
     "card.swordslash.name": "Sword Slash",
     "card.shieldsup.name": "Shields Up!",
-    "card.heavystrike.name": "Heavy Strike",
     "card.fetcharsenal.name": "Fetch Arsenal",
     "card.healthpotion.name": "Health Potion",
     "card.manapotion.name": "Mana Potion",
@@ -36,7 +37,6 @@
     "card.knifestab.name": "Knife Stab",
     "card.highcard.name": "High Card",
     "card.wildswing.name": "Wild Swing",
-    "card.powerfulstrike.name": "Powerful Strike",
     "card.swipe.name": "Swipe",
     "card.healingspell.name": "Healing Spell",
     "card.amplify.name": "Amplify",
@@ -58,5 +58,9 @@
     "card.materialize.name": "Materialize",
     "card.glasscannon.name": "Glass Cannon",
     "card.spellweaving.name": "Spellweaving",
-    "card.trick.name": "Trick"
+    "card.trick.name": "Trick",
+    "card.quickstep.name": "Quickstep",
+    "card.sear.name": "Sear",
+    "card.searingblade.name": "Searing Blade",
+    "card.composure.name": "Composure"
 }

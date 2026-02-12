@@ -2,11 +2,13 @@
     "keyword.discard.name": "Discard",
     "keyword.discard.description": "Return a card from the hand to the deck.",
     "keyword.exhaust.name": "Exhaust",
-    "keyword.exhaust.description": "Remove a card from the hand for the rest of the battle.",
+    "keyword.exhaust.description": "Remove a card from play for the rest of the battle.",
     "keyword.item.name": "Item",
     "keyword.item.description": "Card is removed from the deck when played.",
     "keyword.instant.name": "Instant",
     "keyword.instant.description": "Card is played immediately upon being assigned to a card slot.",
     "keyword.shield.name": "Shield",
-    "keyword.shield.description": "Absorbs incoming damage."
+    "keyword.shield.description": "Absorbs incoming damage.",
+    "keyword.aoe.name": "Area of Effect (AOE)",
+    "keyword.aoe.description": "Hits and activates effects on all targeted card slots.<br>Multiple targeted card slots of the same unit will only trigger damage and effects once."
 }

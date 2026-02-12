@@ -1,4 +1,6 @@
 {
+    "ui.settings.tab.gameplay": "Gameplay",
     "ui.settings.tab.audio": "Audio",
-    "ui.settings.tab.controls": "Controls"
+    "ui.settings.tab.controls": "Controls",
+    "ui.settings.setting.keyworddisplay": "Show Card Keywords"
 }

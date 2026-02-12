@@ -1,6 +1,7 @@
 {
     "ui.battles.enemies": "Enemies",
     "ui.battles.editdeck": "Edit Deck",
+    "ui.battles.editteam": "Edit Team",
     "ui.battles.startbattle": "Start Battle",
     "ui.battles.start": "Battle Start",
     "ui.battles.turn": "Turn",

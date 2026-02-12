@@ -16,5 +16,7 @@
     "ui.warning.rewardsunclaimed.title": "Unclaimed Rewards",
     "ui.warning.rewardsunclaimed.text": "You have unclaimed rewards!<br>Are you sure you wish to continue without claiming them?",
     "ui.warning.moddedrun_invalidmods.title": "Invalid Mods",
-    "ui.warning.moddedrun_invalidmods.text": "This run uses mods that are not currently enabled. This may cause instability or crashes.<br><br>Are you sure you wish to continue?<br><br>Expected Mods:<br>{0}"
+    "ui.warning.moddedrun_invalidmods.text": "This run uses mods that are not currently enabled. This may cause instability or crashes.<br><br>Are you sure you wish to continue?<br><br>Expected Mods:<br>{0}",
+    "ui.warning.unequippedrelics.title": "Unequipped Relics",
+    "ui.warning.unequippedrelics.text": "You have relics that are not currently equipped.<br>These relics will not provide their effects during this battle.<br>Head to the team management screen to equip them?"
 }

@@ -11,5 +11,8 @@
     "ui.rewards.floorgold": "Floors Cleared:",
     "ui.rewards.damagegold": "Damage Dealt:",
     "ui.rewards.killgold": "Kills:",
-    "ui.rewards.totalgold": "Total Gold Earned:"
+    "ui.rewards.totalgold": "Total Gold Earned:",
+    "ui.rewards.difficultybonus": "Difficulty Bonus",
+    "ui.rewards.goldbonus": "Gold Bonus:",
+    "ui.rewards.goldbonus.format": "+{0}%"
 }

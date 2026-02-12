@@ -1,10 +1,6 @@
 {
-    "passive.player.name": "???",
-    "passive.player.description": "If this unit perishes the run is lost.",
-    "passive.bloodfeeding.name": "Bloodfeeding",
-    "passive.bloodfeeding.description": "If this unit damages a target with Bleed, heal half of damage dealt.<br>This effect can trigger once per turn.",
     "passive.bloodstarved.name": "Starving For Blood",
-    "passive.bloodstarved.description": "If this unit is an <b>Undead</b>, targets the enemy with the most stacks of <b>Bleed</b>. If no such enemy exists, targets randomly.<br>If this unit has the passive ability \"Bloodfeeding\", at the start of the second turn onwards, if this unit failed to heal from its effect last turn, gains 1 Fragile.",
+    "passive.bloodstarved.description": "Targets the enemy with the most stacks of <b>Bleed</b>. If no such enemy exists, targets randomly.",
     "passive.preparation.name": "Preparation",
     "passive.preparation.description": "At the start of the first turn, draws 2 cards.",
     "passive.bulkyarmor.name": "Bulky Armor",
