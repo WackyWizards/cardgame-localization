@@ -3,7 +3,7 @@
     "ui.menu.newrun": "Descend",
     "ui.menu.tutorial": "Tutorial",
     "ui.menu.collection": "Collection",
-    "ui.menu.beastiary": "Beastiary",
+    "ui.menu.bestiary": "Bestiary",
     "ui.menu.credits": "Credits",
     "ui.menu.achievements": "Achievements",
     "ui.menu.settings": "Settings",
@@ -11,6 +11,7 @@
     "ui.menu.saveandquit": "Save And Quit",
     "ui.menu.tooltip.discord": "Discord",
     "ui.menu.tooltip.news": "News",
+    "ui.menu.tooltip.forum": "Forum",
     "ui.menu.tooltip.cleardata": "Clear Data",
     "ui.menu.tooltip.mods": "Mods",
     "ui.menu.copyright": "<a href='https://www.wackywizards.org/'>© Wacky Wizards 2026</a>"

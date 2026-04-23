@@ -1,10 +1,17 @@
 {
-    "ui.deck.title": "{0}'s Deck ({1}/{2})",
+    "ui.card.new": "NEW",
+    "ui.cardpacks.title": "Card Packs",
+    "ui.deck.title": "Deck ({0}/{1})",
     "ui.deck.random": "Random Deck",
     "ui.deck.clear": "Clear Deck",
     "ui.storage.title": "Owned Cards",
+    "ui.storage.relics.empty": "No Relics Found",
+    "ui.storage.cards.empty": "No Cards Found",
     "ui.storage.order": "Order",
     "ui.storage.order.rarity": "Rarity",
     "ui.storage.order.cost": "Cost",
-    "ui.storage.order.cardtype": "Card Type"
+    "ui.storage.order.cardtype": "Card Type",
+    "ui.storage.filter.all": "All",
+    "ui.storage.filter.rarity": "Filter by Rarity",
+    "ui.storage.filter.type": "Filter by Type"
 }

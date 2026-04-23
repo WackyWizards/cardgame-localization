@@ -1,4 +1,9 @@
 {
     "tag.undead.name": "Undead",
-    "tag.expedition.name": "Expedition Force"
+    "tag.human.name": "Human",
+    "tag.expedition.name": "Expedition Force",
+    "tag.fodder.name": "Fodder Enemy",
+    "tag.elite.name": "Elite Enemy",
+    "tag.boss.name": "Boss Enemy",
+    "tag.unknown.name": "???"
 }

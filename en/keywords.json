@@ -8,7 +8,7 @@
     "keyword.instant.name": "Instant",
     "keyword.instant.description": "Card is played immediately upon being assigned to a card slot.",
     "keyword.shield.name": "Shield",
-    "keyword.shield.description": "Absorbs incoming damage.",
+    "keyword.shield.description": "Absorbs incoming damage.<br/>Fully blocked hits do not trigger on-hit effects.",
     "keyword.aoe.name": "Area of Effect (AOE)",
-    "keyword.aoe.description": "Hits and activates effects on all targeted card slots.<br>Multiple targeted card slots of the same unit will only trigger damage and effects once."
+    "keyword.aoe.description": "Hits and activates effects on all targeted card slots.<br/>Multiple targeted card slots of the same unit will only trigger damage and effects once."
 }

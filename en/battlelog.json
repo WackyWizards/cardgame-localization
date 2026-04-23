@@ -6,6 +6,7 @@
     "battlelog.discarded_card": "{0} discarded {1}.",
     "battlelog.exhausted_card": "{0} exhausted {1}.",
     "battlelog.unit.dead": "{0} has died.",
+    "battlelog.unit.dead.dead": "{0} has died.",
     "battlelog.unit.dead.by_attacker": "{0} was killed by {1}.",
     "battlelog.unit.dead.by_card": "{0} was slain by {1}.",
     "battlelog.unit.dead.by_status": "{0} succumbed to {1}.",

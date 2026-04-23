@@ -1,6 +1,10 @@
 {
     "ui.unitinfo.tab.deck": "Deck",
     "ui.unitinfo.tab.passives": "Passives",
+    "ui.unitinfo.health": "Health",
+    "ui.unitinfo.mana": "Mana",
     "ui.unitinfo.speed": "Speed",
-    "ui.unitinfo.slots": "Slots"
+    "ui.unitinfo.cardslots": "Card Slots",
+    "ui.unitinfo.damageresistance": "Damage Resistance",
+    "ui.unitinfo.equipped_relics.empty": "No Relics Equipped"
 }

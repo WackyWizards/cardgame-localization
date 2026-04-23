@@ -1,18 +1,24 @@
 {
     "ui.runshop.title": "Run Shop",
     "ui.runshop.respec": "Respec",
+    "ui.runshop.select_hint": "Select an item to view details",
+    "ui.runshop.confirmation.purchase": "Are you sure you want to purchase this item?",
+    "ui.runshop.confirmation.respec": "Are you sure you want to respec?",
+    "ui.runshop.requirements": "Requirements",
+    "ui.runshop.requirement.modifier": "Requires: {0}",
+    "ui.runshop.requirement.modifier.tier": "Requires: {0} Tier {1}",
     "ui.runshop.modifiers.title": "Modifiers",
     "ui.runshop.modifiers.description": "Choose one of the following modifiers to apply to your next run. Modifiers provide various benefits or drawbacks on your descent.",
     "ui.runshop.modifiers.maxhp.title": "Max HP",
-    "ui.runshop.modifiers.maxhp.description": "Increase your maximum HP by 10",
+    "ui.runshop.modifiers.maxhp.description": "Increase your starting maximum HP by 10",
     "ui.runshop.modifiers.goldgain.title": "Gold Gain",
     "ui.runshop.modifiers.goldgain.description": "Increase the amount of gold gained",
     "ui.runshop.modifiers.startinggold.title": "Starting Gold",
-    "ui.runshop.modifiers.startinggold.description": "Start each run with +10g additional gold",
+    "ui.runshop.modifiers.startinggold.description": "Start each run with +10 additional gold",
     "ui.runshop.modifiers.startinggoldbonus.title": "Starting Gold Bonus",
     "ui.runshop.modifiers.startinggoldbonus.description": "Increase the starting gold bonus by 10g",
     "ui.runshop.modifiers.startingreliccount.title": "Starting Relic Count",
     "ui.runshop.modifiers.startingreliccount.description": "Increase the starting relic bonus count by 1",
     "ui.runshop.modifiers.hireally.title": "Hire Ally",
-    "ui.runshop.modifiers.hireally.description": "Start the run with an ally that will fight alongside you"
+    "ui.runshop.modifiers.hireally.description": "Start the run with an ally that will fight alongside you.<br>If an ally perishes, they will be lost for the remainder of the run."
 }

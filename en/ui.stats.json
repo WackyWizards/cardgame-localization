@@ -1,0 +1,11 @@
+{
+    "ui.stats.title": "Stats",
+    "ui.stats.level": "Level",
+    "ui.stats.health": "Health",
+    "ui.stats.mana": "Mana",
+    "ui.stats.slots": "Card Slots",
+    "ui.stats.decklimit": "Deck Limit",
+    "ui.stats.startingdraw": "Starting Draw",
+    "ui.stats.speed": "Speed Range",
+    "ui.stats.speed.value": "{0}-{1}"
+}

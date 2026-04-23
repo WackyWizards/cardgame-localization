@@ -10,5 +10,7 @@
     "passive.copycat.name": "Copycat",
     "passive.copycat.description": "At the start of the battle, removes all cards from hand and deck. Copies the player unit's deck and stats.",
     "passive.prepared.name": "Prepared",
-    "passive.prepared.description": "At the start of the turn, draws 2 cards."
+    "passive.prepared.description": "At the start of the turn, draws 2 cards.",
+    "passive.scaling.name": "Scaling Threat",
+    "passive.scaling.description": "At the start of the turn, for every 4 levels, gains 1 Strength and 1 Fortify."
 }
