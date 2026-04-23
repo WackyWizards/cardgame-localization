@@ -1,5 +1,6 @@
 # cardgame-localization
 Localization files for the game Untitled Card Game
+
 Last tracked update version: 0.17.1
 
 ## Contributing
