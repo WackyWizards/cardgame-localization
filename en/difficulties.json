@@ -1,5 +1,6 @@
 {
-    "difficulty.title": "Select Difficulty",
+    "difficulty.title": "Difficulty",
+    "difficulty.select.title": "Select Difficulty",
     "difficulty.locked": "Locked",
     "difficulty.unlocked": "Unlocked",
     "difficulty.hidden.name": "???",

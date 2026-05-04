@@ -7,7 +7,7 @@
     "ui.manual.gameplay.overview.body": "Battle is a turn-based confrontation between your units and the enemy. Each turn is split into two phases: the Assignment Phase, where you prepare your cards and targets, and the Combat Phase, where all assigned cards resolve in speed order.",
     "ui.manual.battle.turn.title": "Turn Structure",
     "ui.manual.battle.turn.step1.title": "Turn Start",
-    "ui.manual.battle.turn.step1.body": "Each unit's card slots are refreshed and assigned new speed values, randomly rolled from that unit's speed range. On the first turn each unit draws 4 cards, and every subsequent turn they draw 1 card. All units restore 1 MP by default. Turn start effects trigger.",
+    "ui.manual.battle.turn.step1.body": "Each unit's card slots are refreshed and assigned new speed values, randomly rolled from that unit's speed range. On the first turn each unit draws 3 cards, and every subsequent turn they draw 1 card. All units restore 1 MP by default. Turn start effects trigger.",
     "ui.manual.battle.turn.step2.title": "Assignment Phase",
     "ui.manual.battle.turn.step2.body": "Select a card slot above one of your units, then choose a card from their hand to assign to it. Finally, click a valid target's card slot to set who that card will act against. Repeat for all units you wish to act this turn.",
     "ui.manual.battle.turn.step3.title": "Combat Phase",

@@ -68,7 +68,7 @@
     "cardeffect.damageequaltotargetbleed": "Damage dealt by this card is equal to the target's Bleed stacks",
     "cardeffect.damageequaltotargetburn": "Damage dealt by this card is equal to the target's Burn stacks",
     "cardeffect.damageequaltoownerprotection": "Damage dealt by this card is equal to the owner's Protection stacks",
-    "cardeffect.detonatetargetburn": "Deal damage equal to half of the target's Burn stacks (rounded down), then remove all Burn from target",
+    "cardeffect.detonatetargetburn": "Trigger Burn on the target, then remove all Burn from the target",
     "cardeffect.doubletargetburn": "Double the target's Burn stacks (Max. {MaxStack})",
     "cardeffect.drawifhashaste": "If the owner has Haste, draw {Amount} card",
     "cardeffect.drawifhashaste.plural": "If the owner has Haste, draw {Amount} cards",

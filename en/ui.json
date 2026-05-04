@@ -13,6 +13,7 @@
     "ui.button.skip": "Skip",
     "ui.button.hide": "Hide",
     "ui.button.show": "Show",
+    "ui.button.reset": "Reset",
     "ui.button.confirm": "Confirm",
     "ui.button.continue": "Continue",
     "ui.button.return": "Return",
